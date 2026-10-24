@@ -107,3 +107,24 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# ===== Shadowtale 키트 추가 =====
+# ===== Unity =====
+/TestResults/
+/[Aa]ssets/[Ss]treamingAssets/aa*
+
+# ===== IDE =====
+.vscode/
+.idea/
+
+# ===== Obsidian (공유할 설정만 남김) =====
+Docs/.obsidian/workspace*.json
+Docs/.obsidian/cache
+Docs/.trash/
+
+# ===== Claude Code (개인 설정 제외) =====
+.claude/settings.local.json
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
